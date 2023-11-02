@@ -1,2 +1,2 @@
 # practis
-Sample for git and github 
+Sample for git and github.
